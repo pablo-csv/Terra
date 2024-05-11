@@ -1,4 +1,4 @@
-,id_ranking,id_rutina,score,id_match
+,id_match,id_rutina,score,id_ranking
 0,R20902,R20019,1,M865
 1,R20902,R78051,2,M238
 2,R20902,R68907,3,M823
